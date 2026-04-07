@@ -1,7 +1,7 @@
 // Copyright (c) Zefchain Labs, Inc.
 // SPDX-License-Identifier: Apache-2.0
 
-//! This module provides an SDK for developing Linera applications using Rust.
+//! This module provides an SDK for developing Linera aавpplications using Rust.
 //!
 //! A Linera application consists of two WebAssembly binaries: a contract and a service.
 //! Both binaries have access to the same application and chain specific storage. The service only
